@@ -1,0 +1,24 @@
+# openai library
+openai
+
+# http client
+requests
+
+# simply ui framework
+streamlit
+
+# .env utility
+python-dotenv
+
+# jupyter notbook
+jupyter
+
+# finance
+yfinance 
+pandas 
+numpy
+matplotlib
+mplfinance
+pytz
+nltk
+pandas_datareader
