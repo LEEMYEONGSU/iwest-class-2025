@@ -1,0 +1,2 @@
+Page 1: 선택된 소스 = camelot_stream (신뢰도: 100.0%)
+Page 16: 선택된 소스 = pdfplumber (신뢰도: 40.0%)

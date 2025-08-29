@@ -22,3 +22,17 @@ mplfinance
 pytz
 nltk
 pandas_datareader
+
+# pdf
+pyPDF2
+pdfplumber
+
+#extract
+camelot-py[base]
+pandas
+tabulate
+pyhwp
+b64encode
+plotly.graph_objects
+plotly.express
+sqlite
